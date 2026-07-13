@@ -36,27 +36,13 @@ Files included:
 
  Dataset Information
 
-![Data Info](Images/Data_Info.png)
+<img width="911" height="325" alt="Data" src="https://github.com/user-attachments/assets/d4d05cef-aaa4-4140-89a4-384058d1bf23" />
 
----
 
-### Missing Values
+ Cleaned Dataset Output
+<img width="928" height="329" alt="Cleaned Dataset" src="https://github.com/user-attachments/assets/675bc951-0862-43f8-8208-01ac24434f9e" />
 
-![Missing Values](Images/Missing_Values.png)
 
----
-
-### Before vs After Cleaning
-
-![Before After](Images/Before_After.png)
-
----
-
-### Cleaned Dataset Output
-
-![Output](Images/Output.png)
-
----
 
  🛠 Technologies Used
 
@@ -66,7 +52,7 @@ Files included:
 
 
 
-## 📚 Python Concepts Used
+ 📚 Python Concepts Used
 
 - read_csv()
 - info()
